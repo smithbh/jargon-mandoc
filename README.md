@@ -10,6 +10,11 @@ covering the front matter, all ~2,000 lexicon entries, and the appendices.
 
 -----
 
+## About
+[The The New Hacker’s Dictionary / Jargon File](https://www.gutenberg.org/files/3008/3008-h/3008-h.htm) is a historically evolving lexicon and cultural record of hacker, programmer, and Internet subculture slang, traditions, humor, and technical folklore originating from early academic computing communities such as MIT AI Lab and Stanford AI Lab.
+
+[Wikipedia:  Jargon File (Wikipedia)](https://en.wikipedia.org/wiki/Jargon_File)
+
 ## Acknowledgements
 This script uses the debian-maintained jargon file, hosted at:
 https://salsa.debian.org/debian/jargon/-/tree/2420aed100bf9afb10c0f7eee965f64834dda003/
